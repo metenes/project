@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "970725251101",
+    "firebase_url": "https://databaseenhanced-default-rtdb.firebaseio.com",
+    "project_id": "databaseenhanced",
+    "storage_bucket": "databaseenhanced.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970725251101:android:47e49effc5c4d3665a0ef4",
+        "android_client_info": {
+          "package_name": "com.example.FirebaseEnhanced"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970725251101-bgf0pkgkphfi611ilp0meh3bn6ihdiie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiK4n6k8hXVqnmsru-aPVN3_euwF4AN8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970725251101-bgf0pkgkphfi611ilp0meh3bn6ihdiie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
